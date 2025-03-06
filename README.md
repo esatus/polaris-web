@@ -19,7 +19,7 @@ To view generated documentation,
 Install the package. At this point in time, the easiest way is to install straight from github.
 
 ```
-npm install --save github:weboftrust/polaris-web#main
+npm install --save github:esatus/polaris-web#main
 ```
 
 Change repository owner and branch as needed.
